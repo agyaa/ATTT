@@ -1,5 +1,4 @@
 # ATTT
- Advanced TicTacToe
  This project was for my Computer Graphics class, which is why it uses the graphics.h library and requires Turbo C++ to run in.
 
 ⭐This game consists of 9 3x3 Tic Tac Toe grids. 
